@@ -22,6 +22,7 @@
 
 ## Connect
 GitHub: https://github.com/seherzaidi1409-ui
+LinkedIn: linkedin.com/in/seher-zaidi-21312a415
 
 <!--
 **seherzaidi1409-ui/seherzaidi1409-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
