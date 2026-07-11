@@ -8,7 +8,7 @@
 ## Projects
 - 🧮 Python CLI Calculator
 - 📊 Marks Analyzer
-- 🏫 Student Management System (In Progress)
+- 🏫 Student Management System
 
 ## Currently Learning
 - Python
